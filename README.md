@@ -11,7 +11,7 @@
 
 - 🤝 Tôi rất muốn được ứng tuyển góp sức của bản thân với các doanh nghiệp, công ty chuyên môn
 
-- 🌱 Tôi hiện đang học **Reactjs, library, framework,...**
+- 🌱 Tôi hiện đang học **Reactjs, Typescript,...**
 
 - 👨‍💻 Tất cả dự án của tôi đều có sẵn ở github [https://github.com/Kyu0z?tab=repositories](https://github.com/Kyu0z?tab=repositories)
 
