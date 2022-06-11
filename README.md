@@ -1,6 +1,6 @@
+<img width="1200" height="400" align="center" alt="Coding" width="1200" src="https://toidicodedao.files.wordpress.com/2018/07/web-development.jpg">
 <h1 align="center">Xin chào 👋, Tôi là Khải Duy</h1>
 <h3 align="center">Là lập trình viên Front-end nhiệt huyết từ Việt Nam</h3>
-<img align="center" alt="Coding" width="1200" src="https://toidicodedao.files.wordpress.com/2018/07/web-development.jpg">
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyu0z&label=Profile%20views&color=0e75b6&style=flat" alt="kyu0z" /> </p>
@@ -19,7 +19,7 @@
 
 - 📫 Liên hệ với tôi **duykhaidevfe@gmail.com - 094.8757.151**
 
-<h3 align="left">Connect with me:</h3>
+## 🤳**My social media information** 👇
 <p align="left">
 <a href="https://fb.com/khải duy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khải duy" height="30" width="40" /></a>
 <a href="https://instagram.com/kyu1z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kyu1z" height="30" width="40" /></a>
@@ -30,9 +30,19 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Sacombank - 0701.0580.3077 - Mau Duy Khai"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sacombank - 0701.0580.3077 - Mau Duy Khai" /></a></p><br><br>
+<br/>
+
+## 📊 **Github Stats**
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyu0z&show_icons=true&locale=en&layout=compact" alt="kyu0z" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyu0z&show_icons=true&locale=en" alt="kyu0z" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyu0z&" alt="kyu0z" /></p>
+
+![Snake animation](https://github.com/sonht113/sonht113/blob/output/github-contribution-grid-snake.svg)
+     
+<h2 align="center"><i>Created by @Kyu<i></h2>
