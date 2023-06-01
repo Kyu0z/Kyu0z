@@ -14,7 +14,7 @@
 
 - 🤝 Tôi rất muốn được ứng tuyển góp sức của bản thân với các doanh nghiệp, công ty chuyên môn
 
-- 🌱 Tôi hiện đang học **Expressjs, Nodejs,...**
+- 🌱 Tôi hiện đang học **Nextjs, Nodejs,...**
 
 - 👨‍💻 Tất cả dự án của tôi đều có sẵn ở **[Github](https://github.com/Kyu0z?tab=repositories)**
 
