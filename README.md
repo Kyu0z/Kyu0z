@@ -39,17 +39,51 @@
 
 ## 📊 **Github Stats** 👇
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kyu0z&theme=chartreuse-dark&hide_border=false"  /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyu0z&show_icons=true&locale=en&layout=compact" alt="kyu0z" /></p>
-<br/>
+<hr>
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+</p><p> <a href="https://github.com/kyu0z" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyu0z&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></a>
+&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kyu0z&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" alt="ovi" width="410" /></p>
+<hr>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kyu0z&show_icons=true&locale=en" alt="kyu0z" /></p>
-<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyu0z&" alt="kyu0z" /></p>
+### 🔝 Top Contributed Repo And Language
 
-![Snake animation](https://github.com/sonht113/sonht113/blob/output/github-contribution-grid-snake.svg)
+
+<p align = "center">
+
+ 
+  <img src = "https://github-contributor-stats.vercel.app/api?username=kyu0z&limit=6&theme=chartreuse-dark&combine_all_yearly_contributions=true">
+   &nbsp&nbsp&nbsp&nbsp
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kyu0z&langs_count=20&layout=compact&theme=chartreuse-dark&include_all_commits=true&line_height=27">
+</p>
+
+<hr>
+
+<h1 align="center">
+    Hey how´s it going? Be welcome! 😃️
+  </h1>
+   <p align="center">
+    Come codar with me, your contribution will be very welcome! 😉️
+  </p> 
+</div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyu0z&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kyu0z&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kyu0z&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
+    
+</div>
+</div>
+
+
+<hr>
+
+ <p><img align="left" width="1000" src="https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg" alt="kyu0z" /></p> 
+
+<hr />
      
 <h2 align="center"><i>Created by @Kyu<i></h2>
