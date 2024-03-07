@@ -24,8 +24,8 @@
 
 ## 🤳**My social media information** 👇
 <p align="left">
-<a href="https://www.facebook.com/kyudevfe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khải duy" height="30" width="40" /></a>
-<a href="https://instagram.com/kyu1z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kyu1z" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61553235458309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khải duy" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kyu1z" height="30" width="40" /></a>
 </p>
 
 ## 🛠️**Skills and Tools** 👇
