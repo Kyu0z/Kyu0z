@@ -1,10 +1,16 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 <h1 align="center">Xin chào 👋, Tôi là Duy Khải</h1>
+
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?lines=Lập+Trình+Viên+Front-end+nhiệt+huyết+từ+Việt+Nam;Câu+nói+truyền+cảm+hứng+mà+tôi+muốn+chia+sẽ+cho+mọi+người;+I+have+not+failed.+I’ve+just+found+10,000+ways+that+won’t+work.+'Thomas+Edison';Chúc+mọi+người+thành+công!!;Be+enjoy+💻&center=true&width=380&height=45&width=1000">
 </p>
-<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
+
+<!-- <img align='right' src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRoY2c2OHl0MHB0aHQ4ZzNsMnRnMXZmN256NTdyeXNzNXJpdjQ3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11kEuHSQAXXiGQ/giphy.webp' widht=100 height=300 alt='samadpls/Programming-Gifs'></a> -->
+
+<img align='right' src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500" height="420">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyu0z&label=Profile%20views&color=0e75b6&style=flat" alt="kyu0z" /> </p>
 
@@ -21,8 +27,10 @@
 - 💬 Về bản thân **Tôi là người thân thiện, hòa động và nhiệt huyết trong công việc**
 
 - 📫 Liên hệ với tôi **duykhaidevfe@gmail.com - 094.8757.151**
+- 
 
 ## 🤳**My social media information** 👇
+
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=61553235458309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khải duy" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kyu1z" height="30" width="40" /></a>
@@ -35,6 +43,8 @@
 
 ## ✨**Support** 👇
 <p><a href="https://www.buymeacoffee.com/Sacombank - 0701.0580.3077 - Mau Duy Khai"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sacombank - 0701.0580.3077 - Mau Duy Khai" /></a></p><br><br>
+
+
 <br/>
 
 ## 📊 **Github Stats** 👇
