@@ -20,14 +20,14 @@
 
 - 🤝 Tôi rất muốn được ứng tuyển góp sức của bản thân với các doanh nghiệp, công ty chuyên môn
 
-- 🌱 Tôi hiện đang học **Nextjs, Nodejs,...**
+- 🌱 Tôi hiện đang học **Angular, Nodejs,...**
 
 - 👨‍💻 Tất cả dự án của tôi đều có sẵn ở **[Github](https://github.com/Kyu0z?tab=repositories)**
 
 - 💬 Về bản thân **Tôi là người thân thiện, hòa động và nhiệt huyết trong công việc**
 
 - 📫 Liên hệ với tôi **duykhaidevfe@gmail.com - 094.8757.151**
-- 
+  
 
 ## 🤳**My social media information** 👇
 
