@@ -10,7 +10,7 @@
 
 <!-- <img align='right' src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRoY2c2OHl0MHB0aHQ4ZzNsMnRnMXZmN256NTdyeXNzNXJpdjQ3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11kEuHSQAXXiGQ/giphy.webp' widht=100 height=300 alt='samadpls/Programming-Gifs'></a> -->
 
-<img align='right' src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500" height="420">
+<img align='right' src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="490" height="420">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyu0z&label=Profile%20views&color=0e75b6&style=flat" alt="kyu0z" /> </p>
 
